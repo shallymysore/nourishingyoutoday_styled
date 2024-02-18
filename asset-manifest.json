@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/nourishingyoutoday_styled/static/css/main.d2afdc3e.css",
-    "main.js": "/nourishingyoutoday_styled/static/js/main.07f50b8e.js",
+    "main.js": "/nourishingyoutoday_styled/static/js/main.b66a8402.js",
     "static/media/image3.jpg": "/nourishingyoutoday_styled/static/media/image3.15f71da9f75452aece14.jpg",
     "static/media/EncodeSansExpanded-Bold.ttf": "/nourishingyoutoday_styled/static/media/EncodeSansExpanded-Bold.a3f1b991b24cc672041f.ttf",
     "static/media/EncodeSansExpanded-Regular.ttf": "/nourishingyoutoday_styled/static/media/EncodeSansExpanded-Regular.d70ddc73c433590033cf.ttf",
     "static/media/logo-no-background.svg": "/nourishingyoutoday_styled/static/media/logo-no-background.6d9063f1b881307e388b3d66d227e95b.svg",
     "index.html": "/nourishingyoutoday_styled/index.html",
     "main.d2afdc3e.css.map": "/nourishingyoutoday_styled/static/css/main.d2afdc3e.css.map",
-    "main.07f50b8e.js.map": "/nourishingyoutoday_styled/static/js/main.07f50b8e.js.map"
+    "main.b66a8402.js.map": "/nourishingyoutoday_styled/static/js/main.b66a8402.js.map"
   },
   "entrypoints": [
     "static/css/main.d2afdc3e.css",
-    "static/js/main.07f50b8e.js"
+    "static/js/main.b66a8402.js"
   ]
 }
